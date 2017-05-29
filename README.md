@@ -3,5 +3,8 @@ Test Repo
 
 Add a simple change
 
-I'm only adding this single line in this edit.
+I'm adding this text and it should be committed. 
 
+I'm adding this text and it should be removed.
+
+Final version.
