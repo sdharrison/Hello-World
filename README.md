@@ -7,6 +7,8 @@ I'm adding this text and it should be committed.
 
 I'm adding this text and it should be removed.
 
-Final version.
+Final versions.
 
 Testing a branch merge.
+
+Testing a 2nd branch merge
